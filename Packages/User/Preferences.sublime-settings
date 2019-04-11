@@ -1,0 +1,9 @@
+{
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "copy_with_empty_selection": false,
+    "ensure_newline_at_eof_on_save": true,
+    "find_selected_text": false,
+}
